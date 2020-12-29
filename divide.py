@@ -1,3 +1,6 @@
+# To divide dataset in different directories according to their classes
+# Change the code according to number of classes and directories 
+
 import os
 import re
 import shutil 
